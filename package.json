@@ -1,0 +1,28 @@
+{
+    "name": "superuserkamtheme",
+    "displayName": "SuperuserKAM-VSCodeTheme",
+    "description": "This color scheme was created to match the Superuser KAM switches.",
+    "version": "0.1.0",
+    "publisher": "jschmiegel",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "superuserkamtheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SuperuserKAM-VSCodeTheme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JSchmiegel/SuperuserKAM-VSCodeTheme.git"
+    },
+    "license": "GPL-2.0",
+    "icon": "assets/Logo512.png"
+}
