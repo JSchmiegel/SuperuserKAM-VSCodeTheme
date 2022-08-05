@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.1.2
+- added information
+
 ## 0.1.1
 - changed colors of the title bar/menu (bar)
 - changed color of found matches
