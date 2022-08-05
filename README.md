@@ -8,9 +8,9 @@ This Color Theme was original only a [terminal theme](https://github.com/JSchmie
 ![Example2 screenshot of the theme](assets/Demo2.png)
 
 ## Installation
-You can easily find the theme on the marketplace for VS Code.
+You can easily find the theme on the [marketplace for VS Code extensions](https://marketplace.visualstudio.com/items?itemName=jschmiegel.superuserkamtheme).
 
-<!-- ![Screenshot of the marketplace page]() -->
+![Screenshot of the marketplace page](assets/VSMarketplace.png)
 
 ## Terminal Theme
 If you are excited about the theme, you can find a terminal theme for [iTerm2](https://github.com/JSchmiegel/SuperuserKAM-TerminalTheme/wiki/Installation-Guide:-iTerm2), [Windows Terminal](https://github.com/JSchmiegel/SuperuserKAM-TerminalTheme/wiki/Installation-Guide:-Windows-Terminal) and [Gnome Terminal](https://github.com/JSchmiegel/SuperuserKAM-TerminalTheme/wiki/Installation-Guide:-Gnome-Terminal) in the following repository: [SuperuserKAM-TerminalTheme](https://github.com/JSchmiegel/ColorSchemeSuperuserKAM)
