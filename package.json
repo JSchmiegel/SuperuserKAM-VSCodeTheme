@@ -2,7 +2,7 @@
     "name": "superuserkamtheme",
     "displayName": "SuperuserKAM-VSCodeTheme",
     "description": "This color scheme was created to match the Superuser KAM switches.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "jschmiegel",
     "engines": {
         "vscode": "^1.66.0"
