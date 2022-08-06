@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.1.3
+- changed color of menubar selection in the titlebar
+
 ## 0.1.2
 - added information
 

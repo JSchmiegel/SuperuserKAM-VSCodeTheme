@@ -183,7 +183,7 @@
 		# menubar
 		*/
 		"menubar.selectionBackground": "#232e35",
-		"menubar.selectionForeground": "#232e351a",
+		"menubar.selectionForeground": "#80E0A7",
 		"menu.foreground": "#abb2bf",
         "menu.separatorBackground": "#343a45",
 		/*
