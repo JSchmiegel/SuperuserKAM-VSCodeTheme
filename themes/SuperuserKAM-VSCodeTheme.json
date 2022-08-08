@@ -16,7 +16,8 @@
         "activityBar.background": "#3a4254",
         "activityBar.foreground": "#80E0A7",
         "activityBar.activeBackground": "#252a36",
-        "activityBarBadge.background": "#425563",
+        "activityBarBadge.background": "#80E0A7",
+		"activityBarBadge.foreground":"#425563",
         /*
 		# Badges 
 		*/

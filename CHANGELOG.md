@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.1.4
+- fixed the color of activity bar badges
+
 ## 0.1.3
 - changed color of menubar selection in the titlebar
 
