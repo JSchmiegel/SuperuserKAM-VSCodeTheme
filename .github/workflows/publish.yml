@@ -1,7 +1,5 @@
 name: build-deploy-extension
-on:
-  label:
-    types: [created]
+on: workflow_dispatch
 jobs:
   build-extension:
     runs-on: ubuntu-latest
