@@ -21,8 +21,8 @@
 		/*
 		# Badges 
 		*/
-		"badge.background": "#1b1e27",
-		"badge.foreground": "#80E0A7",
+		"badge.background": "#80E0A7",
+		"badge.foreground": "#425563",
 		/* 
 		# Button
 		*/ 

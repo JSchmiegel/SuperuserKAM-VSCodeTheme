@@ -1,5 +1,7 @@
 # Change Log
 
+## 0.1.5
+- made all badges the same color scheme
 ## 0.1.4
 - fixed the color of activity bar badges
 
