@@ -1,0 +1,21 @@
+name: build-deploy-extension
+on:
+  label:
+    types: [created]
+jobs:
+  build-extension:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          node-version: '14'
+      - name: install vsce
+        run: npm install -g vsce
+      - name: create package .vsix file
+        run: vsce package
+      - name: save build file
+        uses: actions/upload-artifact@v3
+        with:
+          name: .vsix file
+          path: |
+            build
