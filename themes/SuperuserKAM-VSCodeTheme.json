@@ -108,8 +108,8 @@
 		"editorLineNumber.foreground": "#425563",
 		"editorMarkerNavigation.background": "#3a4254",
 		"editorSuggestWidget.background": "#252a36",
-		"editorSuggestWidget.border": "#425563",
-		"editorSuggestWidget.selectedBackground": "#252a36",
+		"editorSuggestWidget.border": "#3a4254",
+		"editorSuggestWidget.selectedBackground": "#3a4254",
 		"editorWarning.foreground": "#eb900c",
 		"editorWhitespace.foreground": "#425563",
 		"editorWidget.background": "#2f3645",
@@ -185,13 +185,23 @@
 		*/
 		"menubar.selectionBackground": "#232e35",
 		"menubar.selectionForeground": "#80E0A7",
+		/*
+		# menu
+		*/
 		"menu.foreground": "#abb2bf",
 		"menu.separatorBackground": "#343a45",
+		"menu.background": "#252a36",
+		"menu.border": "#3a4254",
+		"menu.selectionBackground": "#3a4254",
 		/*
 		# Settings
 		*/
 		"settings.focusedRowBackground": "#425563",
 		"settings.headerForeground": "#fff",
+		"settings.dropdownBorder": "#80E0A7",
+		"settings.checkboxBorder": "#80E0A7",
+		"settings.textInputBorder": "#80E0A7",
+		"settings.numberInputBorder": "#80E0A7",
 		/*
 		# Scrollbar
 		*/

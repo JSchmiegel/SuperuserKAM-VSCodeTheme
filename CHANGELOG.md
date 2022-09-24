@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.6
+- fixed the color of selected line of editorsuggestions and changed menu accordingly to be more consistant ((Issue #3)[https://github.com/JSchmiegel/SuperuserKAM-VSCodeTheme/issues/3])
+- fixed setting elements to be more visible when not in focus ((Issue #6)[https://github.com/JSchmiegel/SuperuserKAM-VSCodeTheme/issues/6])
+
 ## 0.1.5
 - made all badges the same color scheme
 ## 0.1.4
