@@ -68,7 +68,9 @@
 		/*
 		# Dropdown
 		*/
-		"dropdown.background": "#425563",
+		"dropdown.background": "#252a36",
+		"dropdown.foreground": "#80E0A7",
+		"dropdown.listBackground": "#252a36",
 		"dropdown.border": "#80E0A7",
 		/*
 		# Git
@@ -176,9 +178,9 @@
 		/*
 		# Title Bar
 		*/
-		"titleBar.activeBackground": "#80E0A7",
-		"titleBar.activeForeground": "#252a36",
-		"titleBar.inactiveBackground": "#252a36",
+		"titleBar.activeBackground": "#3a4254",
+		"titleBar.activeForeground": "#80E0A7",
+		"titleBar.inactiveBackground": "#3a4254",
 		"titleBar.inactiveForeground": "#9da5b4",
 		/*
 		# menubar
@@ -194,14 +196,32 @@
 		"menu.border": "#3a4254",
 		"menu.selectionBackground": "#3a4254",
 		/*
+		# command center
+		*/
+		"commandCenter.foreground": "#80E0A7",
+		"commandCenter.background": "#3a4254",
+		"commandCenter.border": "#80E0A7",
+		"commandCenter.activeForeground": "#80E0A7",
+		"commandCenter.activeBackground": "#252a36",
+		"icon.foreground": "#80E0A7",
+		/*
 		# Settings
 		*/
 		"settings.focusedRowBackground": "#425563",
 		"settings.headerForeground": "#fff",
 		"settings.dropdownBorder": "#80E0A7",
+		"settings.dropdownListBorder": "#80E0A7",
+		"settings.dropdownBackground": "#252a36",
+		"settings.dropdownForeground": "#80E0A7",
 		"settings.checkboxBorder": "#80E0A7",
+		"settings.checkboxBackground": "#252a36",
+		"settings.checkboxForeground": "#80E0A7",
 		"settings.textInputBorder": "#80E0A7",
+		"settings.textInputBackground": "#252a36",
+		"settings.textInputForeground": "#80E0A7",
 		"settings.numberInputBorder": "#80E0A7",
+		"settings.numberInputBackground": "#252a36",
+		"settings.numberInputForeground": "#80E0A7",
 		/*
 		# Scrollbar
 		*/
