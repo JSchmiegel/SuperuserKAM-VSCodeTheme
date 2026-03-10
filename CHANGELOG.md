@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.8
+- fixed the color bug on labels in the git history ([Issue #10](https://github.com/JSchmiegel/SuperuserKAM-VSCodeTheme/issues/10))
+- fixed the bug with marked search results and highlighting ([Issue #8](https://github.com/JSchmiegel/SuperuserKAM-VSCodeTheme/issues/8))
+
 ## 0.1.7
 - fixed the color of the icon in the command center ([Issue #4](https://github.com/JSchmiegel/SuperuserKAM-VSCodeTheme/issues/4))
 - fixed the reopend problem / inconsistancy with the settings ([Issue #6](https://github.com/JSchmiegel/SuperuserKAM-VSCodeTheme/issues/6))

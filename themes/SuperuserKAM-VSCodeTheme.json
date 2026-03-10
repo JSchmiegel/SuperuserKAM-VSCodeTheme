@@ -125,12 +125,13 @@
 		/*
 		# editor highlighting
 		*/
-		"editor.findMatchBackground": "#7553f5",
-		"editor.findMatchHighlightBackground": "#444d63",
-		"editor.wordHighlightBackground": "#444d63",
-		"editor.wordHighlightStrongBackground": "#444d63",
-		"editor.selectionBackground": "#63445C",
-		"editor.selectionHighlightBackground": "#444d63",
+		"editor.selectionBackground": "#36639BFF",
+		"editor.wordHighlightBackground": "#444d6366",
+		/*
+		# editor match
+		*/
+		"editor.findMatchBackground": "#36639BFF",
+		"editor.findMatchHighlightBackground": "#444d6366",
 		/*
 		# editor debugging
 		*/
@@ -259,7 +260,12 @@
 		"list.focusForeground": "#f0f0f0",
 		"list.highlightForeground": "#c5c5c5",
 		"list.hoverForeground": "#fff",
-		"list.inactiveSelectionForeground": "#80E0A7"
+		"list.inactiveSelectionForeground": "#80E0A7",
+		/*
+		# scmGraph
+		*/
+		"scmGraph.historyItemHoverDefaultLabelForeground": "#80E0A7",
+		"scmGraph.historyItemHoverDefaultLabelBackground": "#425563"
 	},
 	"semanticTokenColors": {
 		"enumMember": {
