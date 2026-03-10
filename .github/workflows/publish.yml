@@ -7,7 +7,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: '14'
+          node-version: '18'
       - name: install @vscode/vsce
         run: npm install -g @vscode/vsce
       - name: create package .vsix file
