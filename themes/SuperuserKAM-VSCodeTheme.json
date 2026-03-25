@@ -159,7 +159,7 @@
 		"statusBar.noFolderBackground": "#425563",
 		"statusBarItem.remoteBackground": "#36639B",
 		"statusBarItem.remoteForeground": "#f8fdfa",
-		"statusBarItem.prominentBackground": "#f54635", //color for restricted mode
+		"statusBarItem.prominentBackground": "#f54635", //color for restricted mode and zoom in/out
 		/*
 		# Tab
 		*/
