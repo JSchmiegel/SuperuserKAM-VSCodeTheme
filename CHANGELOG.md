@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.0
+- fixed the unvisibility of the active tab in the modern ui
+
 ## 0.1.9
 - fixed git blame inlay color
 

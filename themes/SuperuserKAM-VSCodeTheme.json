@@ -251,15 +251,15 @@
 		# Lists and trees
 		*/
 		"list.activeSelectionBackground": "#252a36",
-		"list.hoverBackground": "#252a36",
-		"list.inactiveSelectionBackground": "#252a36",
-		"list.warningForeground": "#eb900c",
 		"list.activeSelectionForeground": "#80E0A7",
+		"list.inactiveSelectionBackground": "#3a4254",
+		"list.inactiveSelectionForeground": "#80E0A7",
+		"list.hoverBackground": "#3a4254",
+		"list.hoverForeground": "#fff",
+		"list.warningForeground": "#eb900c",
 		"list.focusBackground": "#323842",
 		"list.focusForeground": "#f0f0f0",
 		"list.highlightForeground": "#c5c5c5",
-		"list.hoverForeground": "#fff",
-		"list.inactiveSelectionForeground": "#80E0A7",
 		/*
 		# scmGraph
 		*/
